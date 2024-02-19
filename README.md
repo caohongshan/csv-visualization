@@ -2,8 +2,8 @@
  - Upload a csv file to read and display it on the page
 
 ## Operation process and effect
- ![onestep: upload](./img/upload.png)
- ![showtable](./img/show-table.png)
+ ![thirdly](./img/thirdly.jpg)
+ ![protogenesis](./img/protogenesis.jpg)
 
 
 # Getting Started with Create React App

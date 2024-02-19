@@ -1,0 +1,23 @@
+.csv-reader-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+ .client-list {
+    margin-top: 20px;
+}
+ .client-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+ .client-item p {
+    margin: 5px 0;
+}
+ input[type="file"] {
+    margin-bottom: 10px;
+}

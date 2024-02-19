@@ -1,0 +1,13 @@
+.custom-table-container {
+  max-width: 100%;
+  overflow-x: auto;
+}
+ .custom-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+ .custom-table th, .custom-table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
